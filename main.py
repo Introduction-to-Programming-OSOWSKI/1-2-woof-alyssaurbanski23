@@ -1,5 +1,2 @@
-def helloWorld():
-    return "Hello World"
-print ("Hello World!")
-
-helloWorld()
+def woof():
+    return "Woof"
